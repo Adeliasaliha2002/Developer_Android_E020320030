@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">simpleshoopinglist2.3</string>
+    <string name="add_item">Add Item</string>
+    <string name="search_text">Search</string>
+    <string name="search_store_location">Search store location</string>
+    <string name="keju">keju</string>
+    <string name="apel">apel</string>
+    <string name="kacang">kacang</string>
+    <string name="kue_kue">kue kue</string>
+    <string name="pizza">pizza</string>
+    <string name="telur">telur</string>
+</resources>

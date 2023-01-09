@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">simpleshoopinglist2.2</string>
+    <string name="add_time">Add Time</string>
+    <string name="keju">keju</string>
+    <string name="apel">apel</string>
+    <string name="kacang">kacang</string>
+    <string name="kue_kue">kue kue</string>
+    <string name="pizza">pizza</string>
+    <string name="telur">telur</string>
+    <string name="add_item" />
+</resources>
